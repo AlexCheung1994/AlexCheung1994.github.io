@@ -1,0 +1,132 @@
+PRE {
+	POSITION: relative; -ms-behavior: url("assets/js/ie/PIE.htc")
+}
+CODE {
+	POSITION: relative; -ms-behavior: url("assets/js/ie/PIE.htc")
+}
+INPUT[type='text'] {
+	POSITION: relative; LINE-HEIGHT: 3em; -ms-behavior: url("assets/js/ie/PIE.htc")
+}
+INPUT[type='password'] {
+	POSITION: relative; LINE-HEIGHT: 3em; -ms-behavior: url("assets/js/ie/PIE.htc")
+}
+INPUT[type='email'] {
+	POSITION: relative; LINE-HEIGHT: 3em; -ms-behavior: url("assets/js/ie/PIE.htc")
+}
+SELECT {
+	POSITION: relative; LINE-HEIGHT: 3em; -ms-behavior: url("assets/js/ie/PIE.htc")
+}
+TEXTAREA {
+	POSITION: relative; LINE-HEIGHT: 3em; -ms-behavior: url("assets/js/ie/PIE.htc")
+}
+INPUT[type='checkbox'] {
+	Z-INDEX: auto; opacity: 1
+}
+INPUT[type='radio'] {
+	Z-INDEX: auto; opacity: 1
+}
+INPUT[type='checkbox'] + LABEL:before {
+	DISPLAY: none
+}
+INPUT[type='radio'] + LABEL:before {
+	DISPLAY: none
+}
+INPUT[type='submit'] {
+	POSITION: relative; -ms-behavior: url("assets/js/ie/PIE.htc")
+}
+INPUT[type='reset'] {
+	POSITION: relative; -ms-behavior: url("assets/js/ie/PIE.htc")
+}
+INPUT[type='button'] {
+	POSITION: relative; -ms-behavior: url("assets/js/ie/PIE.htc")
+}
+.button {
+	POSITION: relative; -ms-behavior: url("assets/js/ie/PIE.htc")
+}
+INPUT[type='submit'].alt {
+	BORDER-TOP: #e5e5e5 2px solid; BORDER-RIGHT: #e5e5e5 2px solid; BORDER-BOTTOM: #e5e5e5 2px solid; BORDER-LEFT: #e5e5e5 2px solid
+}
+INPUT[type='reset'].alt {
+	BORDER-TOP: #e5e5e5 2px solid; BORDER-RIGHT: #e5e5e5 2px solid; BORDER-BOTTOM: #e5e5e5 2px solid; BORDER-LEFT: #e5e5e5 2px solid
+}
+INPUT[type='button'].alt {
+	BORDER-TOP: #e5e5e5 2px solid; BORDER-RIGHT: #e5e5e5 2px solid; BORDER-BOTTOM: #e5e5e5 2px solid; BORDER-LEFT: #e5e5e5 2px solid
+}
+.alt.button {
+	BORDER-TOP: #e5e5e5 2px solid; BORDER-RIGHT: #e5e5e5 2px solid; BORDER-BOTTOM: #e5e5e5 2px solid; BORDER-LEFT: #e5e5e5 2px solid
+}
+.box {
+	POSITION: relative; -ms-behavior: url("assets/js/ie/PIE.htc")
+}
+.box .featured.image {
+	WIDTH: 100%; MARGIN: 2em 0px
+}
+.major.icon {
+	POSITION: relative; -ms-behavior: url("assets/js/ie/PIE.htc")
+}
+.image {
+	POSITION: relative; -ms-behavior: url("assets/js/ie/PIE.htc")
+}
+.image IMG {
+	POSITION: relative; -ms-behavior: url("assets/js/ie/PIE.htc")
+}
+#header nav > UL > LI A {
+	BORDER-LEFT-WIDTH: 0px; TEXT-DECORATION: none; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #fff; DISPLAY: inline-block; BORDER-TOP-WIDTH: 0px
+}
+#header nav > UL > LI A.icon:before {
+	COLOR: #fff; MARGIN-RIGHT: 0.5em
+}
+.alt#header {
+	COLOR: #fff
+}
+UNKNOWN {
+	COLOR: 
+}
+UNKNOWN {
+	
+}
+.dropotron {
+	BORDER-TOP: #e5e5e5 1px solid; BORDER-RIGHT: #e5e5e5 1px solid; BORDER-BOTTOM: #e5e5e5 1px solid; BORDER-LEFT: #e5e5e5 1px solid
+}
+.level-0.dropotron {
+	MARGIN-TOP: 0px
+}
+.level-0.dropotron:before {
+	DISPLAY: none
+}
+#banner {
+	BACKGROUND-IMAGE: url(../../images/banner.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-ATTACHMENT: scroll; background-size: cover; -ms-behavior: url("assets/js/ie/backgroundsize.min.htc")
+}
+#banner INPUT[type='submit'] {
+	BORDER-TOP: #fff 2px solid; BORDER-RIGHT: #fff 2px solid; BORDER-BOTTOM: #fff 2px solid; BORDER-LEFT: #fff 2px solid
+}
+#banner INPUT[type='reset'] {
+	BORDER-TOP: #fff 2px solid; BORDER-RIGHT: #fff 2px solid; BORDER-BOTTOM: #fff 2px solid; BORDER-LEFT: #fff 2px solid
+}
+#banner INPUT[type='button'] {
+	BORDER-TOP: #fff 2px solid; BORDER-RIGHT: #fff 2px solid; BORDER-BOTTOM: #fff 2px solid; BORDER-LEFT: #fff 2px solid
+}
+#banner .button {
+	BORDER-TOP: #fff 2px solid; BORDER-RIGHT: #fff 2px solid; BORDER-BOTTOM: #fff 2px solid; BORDER-LEFT: #fff 2px solid
+}
+#main {
+	POSITION: relative; Z-INDEX: 1
+}
+#cta INPUT[type='text'] {
+	BORDER-TOP: #fff 2px solid; BORDER-RIGHT: #fff 2px solid; BACKGROUND: #e89980; BORDER-BOTTOM: #fff 2px solid; BORDER-LEFT: #fff 2px solid
+}
+#cta INPUT[type='password'] {
+	BORDER-TOP: #fff 2px solid; BORDER-RIGHT: #fff 2px solid; BACKGROUND: #e89980; BORDER-BOTTOM: #fff 2px solid; BORDER-LEFT: #fff 2px solid
+}
+#cta INPUT[type='email'] {
+	BORDER-TOP: #fff 2px solid; BORDER-RIGHT: #fff 2px solid; BACKGROUND: #e89980; BORDER-BOTTOM: #fff 2px solid; BORDER-LEFT: #fff 2px solid
+}
+#cta SELECT {
+	BORDER-TOP: #fff 2px solid; BORDER-RIGHT: #fff 2px solid; BACKGROUND: #e89980; BORDER-BOTTOM: #fff 2px solid; BORDER-LEFT: #fff 2px solid
+}
+#cta TEXTAREA {
+	BORDER-TOP: #fff 2px solid; BORDER-RIGHT: #fff 2px solid; BACKGROUND: #e89980; BORDER-BOTTOM: #fff 2px solid; BORDER-LEFT: #fff 2px solid
+}
+#cta .formerize-placeholder {
+	COLOR: #fff !important
+}
